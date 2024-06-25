@@ -14330,6 +14330,14 @@ csx.cc
 // Submitted by Ben Aubin <security@mintere.com>
 mintere.site
 
+// Mittwald CM Service GmbH & Co. KG : https://mittwald.de
+// Submitted by Tobias Hüske <t.hueske@mittwald.de>
+*.project.space
+*.webspaceconfig.de
+*.mittwaldserver.info
+*.typo3server.info
+*.mittwald.info
+
 // MobileEducation, LLC : https://joinforte.com
 // Submitted by Grayson Martin <grayson.martin@mobileeducation.us>
 forte.id
